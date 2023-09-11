@@ -1,1 +1,2 @@
-This is a test. 
+An advantage of using a text editor is that it speeds up the writing process, and it also makes errors easier to identify. Also, text editors like Visual Studio Code allow the user to preview their README.md file to check that everything is correct. 
+Relative URLs are used when the folder you're referencing is in the same path as your page. Relative URLs don't contain protocols or domain information, but absolute URLs do because their folders are in a different path. The main advantage to using a relative URL whenever possible is that they're shorter and faster to type with less chance of making a typo. 
