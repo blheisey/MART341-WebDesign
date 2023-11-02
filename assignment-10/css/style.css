@@ -6,11 +6,11 @@ body {
     /* Draw a border and make it aqua */
     border-style: solid;
     border-width: 10px;
-    border-color: aqua;
+    border-color: #E37222;
     /* Add space between the border and the inside elements */
     padding: 10px;
     /* Color the background pink */
-    background-color: #EC576B;
+    background-color: #66B98F;
     width: 75%;
     margin: auto;
 }
