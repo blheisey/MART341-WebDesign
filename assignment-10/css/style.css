@@ -9,8 +9,8 @@ body {
     border-color: aqua;
     /* Add space between the border and the inside elements */
     padding: 10px;
-    /* Color the background lime green */
-    background-color: 33FF8D;
+    /* Color the background green */
+    background-color: #33FF8D;
     width: 75%;
     margin: auto;
 }
