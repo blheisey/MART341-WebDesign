@@ -2,6 +2,8 @@
 .container {
     background-color: #e5b87c;
     font-family: 'PT Serif Caption', serif;
+    padding-left: 10px;
+    padding-bottom: 20px;
 }
 
 .container #title {
