@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif+Caption&display=swap');
 .container {
-    background-color: #B6B6B4;
+    background-color: #93917C;
     font-family: 'PT Serif Caption', serif;
 }
 
-.container.paragraph {
-    text-align: left;
+.container #title {
+    text-align: center;
+    font-size: 32pt;
 }
