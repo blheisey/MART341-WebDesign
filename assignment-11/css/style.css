@@ -11,6 +11,11 @@
     font-size: 32pt;
 }
 
-.container .paragraph-1 {
+.container #paragraph-1 {
+    width: 33.33%;
+}
+
+.container #paragraph-2 {
+    align-self: center;
     width: 33.33%;
 }
