@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif+Caption&display=swap');
+.container {
+    background-color: #B6B6B4;
+    font-family: 'PT Serif Caption', serif;
+}
+
+.container.paragraph {
+    text-align: left;
+}
