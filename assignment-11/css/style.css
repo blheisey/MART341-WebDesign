@@ -4,6 +4,8 @@
     font-family: 'PT Serif Caption', serif;
     padding-left: 10px;
     padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
 }
 
 .container #title {
@@ -16,6 +18,6 @@
 }
 
 .container #paragraph-2 {
-    align-self: center;
+    
     width: 33.33%;
 }
