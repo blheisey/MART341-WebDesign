@@ -4,7 +4,7 @@
     font-family: 'PT Serif Caption', serif;
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 .container #title {
@@ -19,5 +19,10 @@
 
 .container .flex-container .paragraphs {
     width: 33.33%;
+}
+
+.container .flex-container .paragraphs #paragraph-2 {
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
