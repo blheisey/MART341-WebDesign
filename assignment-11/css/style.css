@@ -3,9 +3,8 @@
     background-color: #e5b87c;
     font-family: 'PT Serif Caption', serif;
     padding-left: 10px;
+    padding-right: 10px;
     padding-bottom: 20px;
-    display: flex;
-    flex-direction: row;
 }
 
 .container #title {
@@ -13,11 +12,12 @@
     font-size: 32pt;
 }
 
-.container #paragraph-1 {
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.container .flex-container .paragraphs {
     width: 33.33%;
 }
 
-.container #paragraph-2 {
-    
-    width: 33.33%;
-}
