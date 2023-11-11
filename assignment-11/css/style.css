@@ -42,7 +42,8 @@
 
 #timeline:hover {
     background: url("../images/photography_timeline.png");
-    background-size: auto;
+    width: 445;
+    height: 300;
 }
 
 #photo {
