@@ -22,6 +22,7 @@
 }
 
 #paragraph-2 {
+    border-left: solid #622F22;
     padding-left: 25px;
     padding-right: 25px;
 }
