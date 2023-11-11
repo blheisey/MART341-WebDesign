@@ -42,7 +42,6 @@
 
 #timeline:hover {
     background: url("../images/photography_timeline.png");
-    background-size: contain;
     display: block;
     width: 445px;
     height: 300px;
