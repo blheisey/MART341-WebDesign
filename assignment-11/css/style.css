@@ -43,6 +43,7 @@
 #timeline:hover {
     background: url("../images/photography_timeline.png");
     display: block;
+    float: right;
     width: 445px;
     height: 300px;
 }
