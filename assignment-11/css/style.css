@@ -26,6 +26,14 @@
     padding-right: 15px;
 }
 
+#timeline {
+    text-align: center;
+}
+
+#timeline:hover {
+    background: url(../images/photography_timeline.png);
+}
+
 #photo {
     text-align: center;
 }
