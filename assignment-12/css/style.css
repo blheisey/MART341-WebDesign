@@ -1,0 +1,66 @@
+.main-container {
+    margin: 10px;
+    background-color: #82CAFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.menu {
+    display: inline-block;
+    text-align: center;
+    background-color: #E5E4E2;
+}
+
+.menu:hover {
+    background-color: #CECECE;
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #E5E4E2;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    padding: 0.5%;
+}
+
+.dropdown-item:hover {
+    background-color: #CECECE;
+}
+
+#heading {
+    margin: 10px;
+    padding: 5px;
+    text-align: left;
+    font-size: 16pt;
+    border: 2px double #52595D;
+}
+
+.content-container {
+    margin-bottom: 10px;
+    padding: 10px;
+    height: 33.33%;
+    border-bottom: 2px double #52595D;
+}
+
+#first-ragdoll {
+    width: 33.33%;
+    text-align: left;
+}
+
+#paragraph-1 {
+    overflow: scroll;
+    width: 66.66%;
+    background-color: #E5E4E2;
+}
