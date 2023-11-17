@@ -12,6 +12,7 @@ header {
     text-align: center;
     margin: 0 0;
     padding: 0.5em 0;
+    min-width: 8em;
     background-color: #E5E4E2;
 }
 
