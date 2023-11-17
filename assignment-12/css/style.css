@@ -60,6 +60,7 @@ header {
     flex-direction: row;
     margin-bottom: 10px;
     padding: 10px;
+    border-top: 6px double #52595D;
     border-bottom: 6px double #52595D;
 }
 
