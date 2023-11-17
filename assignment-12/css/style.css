@@ -15,8 +15,8 @@ header {
 .menu {
     display: inline-block;
     text-align: center;
-    margin: 2px;
-    padding: 4px;
+    margin: 0.5px;
+    padding: 0.5px;
     background-color: #E5E4E2;
 }
 
@@ -52,7 +52,7 @@ header {
 .dropdown-item {
     display: block;
     text-align: left;
-    padding: 0.5%;
+    padding: 0.5px;
 }
 
 .dropdown-item:hover {
