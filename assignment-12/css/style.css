@@ -1,4 +1,7 @@
 
+body {
+    background-color: #82CAFF;
+}
 header {
     position: fixed;
     margin: 0;
@@ -64,11 +67,11 @@ header {
     border-bottom: 6px double #52595D;
 }
 
-#first-ragdoll {
+.image {
     flex: 1;
 }
 
-#paragraph-1 {
+.paragraph {
     flex: 2;
     overflow: scroll;
     padding: 5px;
