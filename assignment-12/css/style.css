@@ -78,8 +78,9 @@ header {
 }
 
 #paragraph-1 {
+    display: inline-block;
     overflow: scroll;
-    float: right;
+    padding: 5px;
     width: 66.66%;
     background-color: #E5E4E2;
 }
