@@ -36,6 +36,7 @@ header {
     display: none;
     text-align: center;
     padding: 4px;
+    min-width: 8em;
     position: absolute;
     background-color: #E5E4E2;
     z-index: 1;
