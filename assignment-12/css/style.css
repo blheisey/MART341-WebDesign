@@ -81,6 +81,7 @@ header {
 
 #paragraph-1 {
     overflow: scroll;
+    float: right;
     width: 66.66%;
     background-color: #E5E4E2;
 }
