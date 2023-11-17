@@ -82,6 +82,10 @@ header {
     z-index: 1;
 }
 
+.image-right {
+    flex: 1;
+    order: 1;
+}
 
 .paragraph-right {
     flex: 2;
@@ -92,7 +96,4 @@ header {
     z-index: 1;
 }
 
-.image-right {
-    flex: 1;
-    order: 1;
-}
+
