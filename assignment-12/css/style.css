@@ -69,11 +69,11 @@ header {
     border-top: 6px double #52595D;
 }
 
-.image-1 {
+.image-left {
     flex: 1;
 }
 
-.paragraph-1 {
+.paragraph-left {
     flex: 2;
     overflow: scroll;
     padding: 5px;
@@ -83,7 +83,7 @@ header {
 }
 
 
-.paragraph-2 {
+.paragraph-right {
     flex: 2;
     overflow: scroll;
     padding: 5px;
@@ -92,7 +92,7 @@ header {
     z-index: 1;
 }
 
-.image-2 {
+.image-right {
     flex: 1;
     order: 1;
 }
