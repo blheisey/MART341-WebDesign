@@ -13,8 +13,13 @@ header {
 .menu {
     display: inline-block;
     text-align: center;
-    color: black;
+    margin: 2px;
+    padding: 4px;
     background-color: #E5E4E2;
+}
+
+.menu a {
+    color: black;
 }
 
 .menu:hover {
@@ -27,9 +32,15 @@ header {
 
 .dropdown-content {
     display: none;
+    text-align: center;
+    padding: 4px;
     position: absolute;
     background-color: #E5E4E2;
     z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
 }
 
 .dropdown:hover .dropdown-content {
@@ -50,7 +61,7 @@ header {
     margin: 10px;
     padding: 5px;
     text-align: left;
-    font-size: 16pt;
+    font-size: 14pt;
     border-bottom: 6px double #52595D;
 }
 
