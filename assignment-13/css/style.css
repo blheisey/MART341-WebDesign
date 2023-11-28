@@ -50,6 +50,7 @@ header {
     background-color: #565051;
     color: white;
     padding: 10px;
+    z-index: 1;
 }
 
 .dropdown-content a {
