@@ -45,6 +45,7 @@ header {
 
 .dropdown-content {
     display: none;
+    position: absolute;
     min-width: 6 em;
     text-align: center;
     background-color: #565051;
