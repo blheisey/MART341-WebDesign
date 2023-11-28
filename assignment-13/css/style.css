@@ -30,33 +30,41 @@ header {
     padding: 10px;
 }
 
+.menu a {
+    color: white;
+}
+
+
 .menu:hover {
     background-color: #837E7C;
 }
 
 .dropdown {
     display: inline-block;
-    background-color: #565051;
-    min-width: 6 em;
-    text-align: center;
-    padding: 10px;
 }
 
 .dropdown-content {
     display: none;
+    min-width: 6 em;
+    text-align: center;
+    background-color: #565051;
+    color: white;
+    padding: 10px;
+}
+
+.dropdown-content a {
+    color: white;
 }
 
 .dropdown:hover .dropdown-content {
     display: block;
 }
 
-.dropdown-content {
-    background-color: #565051;
-    min-width: 6 em;
-    text-align: center;
-    padding: 10px;
+.dropdown-item {
+    display: block;
+    padding: 5px;
 }
 
-.dropdown-content:hover {
+.dropdown-item:hover {
     background-color: #837E7C;
 }
