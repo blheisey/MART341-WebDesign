@@ -48,7 +48,7 @@ header {
     display: none;
     position: absolute;
     min-width: 6 em;
-    text-align: left;
+    left: 0;
     background-color: #565051;
     padding: 10px;
     z-index: 1;
