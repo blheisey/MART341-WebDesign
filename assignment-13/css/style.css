@@ -48,7 +48,6 @@ header {
 .dropdown-content {
     display: none;
     position: absolute;
-    min-width: 6 em;
     background-color: #565051;
     padding: 10px;
     z-index: 1;
@@ -64,7 +63,7 @@ header {
 
 .dropdown-item {
     display: block;
-    padding: 5px;
+    padding: 0.5em, 1em, 0.5em, 1em;
     text-align: left;
     margin: 0;
     min-width: 5.9em;
