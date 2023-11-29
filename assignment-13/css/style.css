@@ -21,13 +21,13 @@ header {
     width: 100%;
     top: 0;
     text-align: left;
-    left: 0px;
+    left: 0;
 }
 
 .menu {
     display: inline-block;
     background-color: #565051;
-    min-width: 6 em;
+    min-width: 6em;
     text-align: center;
     padding: 10px;
 }
@@ -66,6 +66,7 @@ header {
     display: block;
     padding: 5px;
     text-align: left;
+    margin: 0;
 }
 
 .dropdown-item:hover {
