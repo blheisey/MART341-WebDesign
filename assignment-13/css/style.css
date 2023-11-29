@@ -67,6 +67,7 @@ header {
     padding: 5px;
     text-align: left;
     margin: 0;
+    min-width: 6em;
 }
 
 .dropdown-item:hover {
