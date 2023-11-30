@@ -88,13 +88,13 @@ header {
 }
 
 .about-waterfall {
-    text-align: center;
+    margin: auto;
     content: url("../images/waterfall5_small.png");
 }
 
 @media only screen and (min-width: 600px) {
     .about-waterfall {
-        text-align: center;
+        margin: auto;
         content: url("../images/waterfall5.png");
     }
 }
