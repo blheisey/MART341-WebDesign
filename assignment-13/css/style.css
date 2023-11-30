@@ -87,6 +87,17 @@ header {
     }
 }
 
+.about-waterfall {
+    text-align: center;
+    content: url("../images/waterfall5_small.png");
+}
+
+@media only screen and (min-width: 600px) {
+    .about-waterfall {
+        content: url("../images/waterfall5.png");
+    }
+}
+
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
