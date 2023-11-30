@@ -64,6 +64,17 @@ header {
     background-color: #837E7C;
 }
 
+.left-waterfall {
+    float: left;
+    content: url("../images/waterfall4_small.png");
+}
+
+@media only screen and (min-width: 600px) {
+    .left-waterfall {
+        content: url("../images/waterfall4.png");
+    }
+}
+
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
