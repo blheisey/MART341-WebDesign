@@ -99,6 +99,17 @@ header {
     }
 }
 
+.contact-waterfall {
+    margin: auto;
+    content: url("../images/waterfall2_small.png");
+}
+
+@media only screen and (min-width: 600px) {
+    .contact-waterfall {
+        margin: auto;
+        content: url("../images/waterfall2.png");
+    }
+}
 .changing-paragraphs {
     text-align: center;
     width: 100%;
