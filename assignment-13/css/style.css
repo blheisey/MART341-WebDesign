@@ -122,9 +122,16 @@ header {
 
 @media only screen and (min-width: 600px) {
     .always-fullscreen {
-        clear: both;
         text-align: left;
         width: 100%;
         padding: 15px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .new-row::after {
+        content: "";
+        clear: both;
+        display: table;
     }
 }
