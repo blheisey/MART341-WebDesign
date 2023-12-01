@@ -152,10 +152,6 @@ header {
 }
 
 .form {
-    text-align: center;
+    margin: auto;
     padding: 15px;
-}
-
-.comments {
-    text-align: left;
 }
