@@ -151,3 +151,7 @@ header {
     text-align: center;
     padding: 15px;
 }
+
+.comments {
+    text-align: left;
+}
