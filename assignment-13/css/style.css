@@ -152,6 +152,7 @@ header {
 }
 
 .form {
-    margin: auto;
-    padding: 15px;
+    width: 50%;
+    margin-left: 25%;
+    
 }
