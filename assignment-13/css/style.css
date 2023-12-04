@@ -136,6 +136,7 @@ header {
 
 @media only screen and (min-width: 600px) {
     .changing-paragraphs {
+        text-align: left;
         float: left;
         width: 50%;
         padding: 15px;
