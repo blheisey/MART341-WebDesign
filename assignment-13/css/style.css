@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #DCC7AA;
+}
+
 div {
     line-height: 1.5em;
     padding: 5px;
