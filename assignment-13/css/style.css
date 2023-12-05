@@ -149,7 +149,7 @@ header {
 .col-12 {width: 100%;}
 
 .about-paragraphs {
-    text-align: center;
+    text-align: left;
     width: 100%;
     padding: 15px;
 }
@@ -164,7 +164,7 @@ header {
 }
 
 .services-paragraphs {
-    text-align: center;
+    text-align: left;
     width: 100%;
     padding: 15px;
 }
