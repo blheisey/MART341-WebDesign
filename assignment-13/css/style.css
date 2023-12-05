@@ -124,6 +124,17 @@ header {
     }
 }
 
+.services-waterfall {
+    margin: auto;
+    content: url("../images/waterfall3_small.png");
+}
+
+@media only screen and (min-width: 600px) {
+    .services-waterfall {
+        margin: auto;
+        content: url("../images/waterfall3.png");
+    }
+}
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
