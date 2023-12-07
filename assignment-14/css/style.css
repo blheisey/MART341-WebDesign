@@ -1,0 +1,20 @@
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: black;
+}
+
+.menu-item {
+    height: 6em;
+    min-width: 6em;
+    padding: 10px;
+    text-align: left;
+    color: white;
+}
+
+.menu-item:hover {
+    color: darkgrey;
+}
+
